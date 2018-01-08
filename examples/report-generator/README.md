@@ -126,7 +126,7 @@ Pipe directly all dependencies into the _requirements.txt_ file in a sorted mann
 pip install -r requirements.txt
 ```
 
-_**REMARKS**:
+**REMARKS**:
 
 If you are only running this via a **virtualenv** (which implies also that you are using the global Python installation on that environment), you specify the directory it is installed into: e.g. `virtualenv --python python3 venv` would create a folder called **venv**, which has a **venv/bin/python** in it (plus other stuff too).
 
